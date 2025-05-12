@@ -3,12 +3,12 @@
 export const bangs = [
   {
     c: "AI",
-    d: "www.t3.chat",
+    d: "beta.t3.chat", // temporarily move to beta
     r: 0,
     s: "T3 Chat",
     sc: "AI",
     t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
+    u: "https://beta.t3.chat/new?q={{{s}}}", // temporarily move to beta
   },
   {
     c: "Tech",
